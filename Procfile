@@ -1,2 +1,1 @@
-app: cd gpt2bot/gpt2bot
-python telegram_bot.py
+web: python3 telegram_bot.py
